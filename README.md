@@ -11,6 +11,8 @@ Table of Contents:
 - [Installation](#installation)
 - [How to Use](#how-to-use)
 
+- 
+FEATURES: 
 -  **Voice Greeting** | Plays "Hello! Welcome to the Cybersecurity Bot" on startup 
  **ASCII Art Logo** | Cybersecurity-themed logo displayed at the top of the window 
  **Keyword Recognition** | Detects: password, scam, privacy, phishing, safe browsing
@@ -19,13 +21,14 @@ Table of Contents:
  **Sentiment Detection** | Detects "worried", "scared", "afraid" and responds with empathy 
  **Conversation Flow** | Supports "another tip" and "tell me more"
 
-   Requirements:
-   Windows os or 11
+
+    Requirements:
+    Windows os or 11
    .Net runtime 8.0 or later
+   
 
     Installation:
-
-  ### Option 1: Download Executable (Easiest)
+  Download Executable (Easiest)
   Go to the [Releases] https://github.com/Tauhirh21/CybersecurityChatbotGUI-/releases/tag/v1.0.0
   Double-click to install and open. 
 

@@ -1,0 +1,9 @@
+public static class AsciiArt
+{
+    public static void DisplayLogo()
+    {
+        Console.WriteLine("╔══════════════════╗");
+        Console.WriteLine("║  SECURITY BOT    ║");
+        Console.WriteLine("╚══════════════════╝");
+    }
+}
